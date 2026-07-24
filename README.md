@@ -58,13 +58,13 @@ A CRUD-based application developed using Java technologies for managing employee
 ## 📬 Contact
 
 * **Name:** Manvendra Chaudhari
-* **Email:** *(Add your email here)*
-* **LinkedIn:** *(Add your LinkedIn profile link here)*
+* **Email:** cmanvendra.9170@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/manvendra-chaudhari-618a402a0
 * **GitHub:** https://github.com/manvendra2006-code
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots
 
-> Add screenshots of your portfolio homepage and project sections here.
+> Add screenshots of your portfolio homepage and project sections here. -->
 
 ## 📄 License
 
